@@ -1,0 +1,1539 @@
+{
+  "year": 2026,
+  "exportedAt": "2026-02-28T01:09:09.654Z",
+  "meta": {
+    "title": "21 Novembre",
+    "producer": "Théâtre populaire d'Acadie",
+    "updatedAt": "2026-02-26T15:02:16.541Z"
+  },
+  "data": {
+    "2026-03-17": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120542615
+      }
+    ],
+    "2026-03-18": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boite-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120573495
+      }
+    ],
+    "2026-03-19": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120592749
+      }
+    ],
+    "2026-05-04": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120661835
+      }
+    ],
+    "2026-05-05": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120671420
+      }
+    ],
+    "2026-05-06": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120679338
+      }
+    ],
+    "2026-05-07": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120685707
+      }
+    ],
+    "2026-05-08": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120692307
+      },
+      {
+        "dept": "Réunion de prod",
+        "type": "",
+        "text": "Réunion de production/ décor",
+        "resp": "",
+        "color": "",
+        "ts": 1772132092756
+      }
+    ],
+    "2026-08-17": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120785476
+      },
+      {
+        "dept": "Scénographie",
+        "type": "Remise",
+        "text": "Plan de décor préliminaire",
+        "resp": "Denise",
+        "color": "",
+        "ts": 1772123462870
+      }
+    ],
+    "2026-08-18": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120791869
+      }
+    ],
+    "2026-08-19": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120798808
+      }
+    ],
+    "2026-08-20": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120805516
+      }
+    ],
+    "2026-08-21": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120811366
+      }
+    ],
+    "2026-08-22": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120816820
+      },
+      {
+        "dept": "Réunion de prod",
+        "type": "",
+        "text": "Réunion de production / décor",
+        "resp": "",
+        "color": "",
+        "ts": 1772132397911
+      }
+    ],
+    "2026-08-23": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120825056
+      }
+    ],
+    "2026-08-24": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120834668
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "Présence Jonathan",
+        "resp": "",
+        "color": "",
+        "ts": 1772132851944
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "Présence André",
+        "resp": "",
+        "color": "",
+        "ts": 1772133218842
+      }
+    ],
+    "2026-08-25": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120841037
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "Présence Jonathan",
+        "resp": "",
+        "color": "",
+        "ts": 1772133045081
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "Présence André",
+        "resp": "",
+        "color": "",
+        "ts": 1772133259937
+      }
+    ],
+    "2026-08-26": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120848222
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "Présence Jonathan",
+        "resp": "",
+        "color": "",
+        "ts": 1772133073127
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "Présence André",
+        "resp": "",
+        "color": "",
+        "ts": 1772133278057
+      }
+    ],
+    "2026-08-27": [
+      {
+        "dept": "Laboratoire",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772120857644
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "Présence Jonathan",
+        "resp": "",
+        "color": "",
+        "ts": 1772133109451
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "Présence André",
+        "resp": "",
+        "color": "",
+        "ts": 1772133337667
+      },
+      {
+        "dept": "Réunion de prod",
+        "type": "",
+        "text": "Réunion de production son/éclairage/décor-acces",
+        "resp": "",
+        "color": "",
+        "ts": 1772134298521
+      }
+    ],
+    "2026-10-19": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121293960
+      },
+      {
+        "dept": "Accessoires",
+        "type": "Remise",
+        "text": "Accessoires préliminaire",
+        "resp": "Denise",
+        "color": "",
+        "ts": 1772131176916
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "Bande sonore de travail préliminaire",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772136725379
+      }
+    ],
+    "2026-10-20": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121303697
+      }
+    ],
+    "2026-10-21": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121312258
+      }
+    ],
+    "2026-10-22": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121320833
+      }
+    ],
+    "2026-10-23": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121328509
+      },
+      {
+        "dept": "Réunion de prod",
+        "type": "",
+        "text": "Réunion de production",
+        "resp": "",
+        "color": "",
+        "ts": 1772134509479
+      }
+    ],
+    "2026-10-24": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121340481
+      }
+    ],
+    "2026-10-25": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121351594
+      }
+    ],
+    "2026-10-26": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121366444
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772135010102
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772135231266
+      }
+    ],
+    "2026-10-27": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121374185
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772135058900
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772135302314
+      }
+    ],
+    "2026-10-28": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121395307
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772135091459
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772135402949
+      }
+    ],
+    "2026-10-29": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121401892
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772135141742
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772135418369
+      }
+    ],
+    "2026-10-30": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Boîte-Théâtre",
+        "resp": "",
+        "color": "",
+        "ts": 1772121408575
+      },
+      {
+        "dept": "Réunion de prod",
+        "type": "",
+        "text": "Réunion de production",
+        "resp": "",
+        "color": "",
+        "ts": 1772134531567
+      },
+      {
+        "dept": "Accessoires",
+        "type": "Remise",
+        "text": "Accessoires finaux",
+        "resp": "Denise",
+        "color": "",
+        "ts": 1772135926057
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772135170894
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "Remise plan d'éclairage CCC",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137932332
+      }
+    ],
+    "2026-10-31": [
+      {
+        "dept": "Technique",
+        "type": "",
+        "text": "Démontage",
+        "resp": "",
+        "color": "",
+        "ts": 1772121450691
+      }
+    ],
+    "2026-11-01": [
+      {
+        "dept": "Technique",
+        "type": "",
+        "text": "Montage CCC",
+        "resp": "",
+        "color": "",
+        "ts": 1772121468676
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "Focus-PM",
+        "resp": "André",
+        "color": "",
+        "ts": 1772138812859
+      }
+    ],
+    "2026-11-02": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Centre culturel Caraquet",
+        "resp": "",
+        "color": "",
+        "ts": 1772121501495
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772137013311
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137161896
+      },
+      {
+        "dept": "Costumes",
+        "type": "Remise",
+        "text": "Costumes",
+        "resp": "Denise",
+        "color": "",
+        "ts": 1772137717794
+      },
+      {
+        "dept": "Technique",
+        "type": "",
+        "text": "Raccord technique soirée",
+        "resp": "",
+        "color": "",
+        "ts": 1772138874173
+      }
+    ],
+    "2026-11-03": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Centre culturel Caraquet",
+        "resp": "",
+        "color": "",
+        "ts": 1772121508760
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772137028949
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137179799
+      },
+      {
+        "dept": "Coiffure/Maquillage",
+        "type": "",
+        "text": "Session Coiffure/Maquillage",
+        "resp": "",
+        "color": "",
+        "ts": 1772137807904
+      },
+      {
+        "dept": "Technique",
+        "type": "",
+        "text": "Raccord technique soirée",
+        "resp": "",
+        "color": "",
+        "ts": 1772138891217
+      }
+    ],
+    "2026-11-04": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Centre culturel Caraquet",
+        "resp": "",
+        "color": "",
+        "ts": 1772121520653
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "Bande sonore finale",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772136326896
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137190707
+      },
+      {
+        "dept": "Technique",
+        "type": "",
+        "text": "Raccord technique soirée",
+        "resp": "",
+        "color": "",
+        "ts": 1772138901659
+      }
+    ],
+    "2026-11-05": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Centre culturel Caraquet",
+        "resp": "",
+        "color": "",
+        "ts": 1772121527975
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772137039202
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137206316
+      },
+      {
+        "dept": "Technique",
+        "type": "",
+        "text": "Raccord technique soirée",
+        "resp": "",
+        "color": "",
+        "ts": 1772138915240
+      }
+    ],
+    "2026-11-06": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Centre culturel Caraquet",
+        "resp": "",
+        "color": "",
+        "ts": 1772121535023
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772137060049
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137230955
+      },
+      {
+        "dept": "Technique",
+        "type": "",
+        "text": "Raccord technique soirée",
+        "resp": "",
+        "color": "",
+        "ts": 1772138925874
+      }
+    ],
+    "2026-11-07": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Centre culturel Caraquet",
+        "resp": "",
+        "color": "",
+        "ts": 1772121577985
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772137071132
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137250219
+      },
+      {
+        "dept": "Technique",
+        "type": "",
+        "text": "Raccord technique soirée",
+        "resp": "",
+        "color": "",
+        "ts": 1772138971236
+      }
+    ],
+    "2026-11-08": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Centre culturel Caraquet",
+        "resp": "",
+        "color": "",
+        "ts": 1772121589399
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772137088191
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137275143
+      },
+      {
+        "dept": "Technique",
+        "type": "",
+        "text": "Raccord technique soirée",
+        "resp": "",
+        "color": "",
+        "ts": 1772138981133
+      }
+    ],
+    "2026-11-09": [
+      {
+        "dept": "Répétition",
+        "type": "",
+        "text": "Centre culturel Caraquet",
+        "resp": "",
+        "color": "",
+        "ts": 1772121598494
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772137102151
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137302970
+      }
+    ],
+    "2026-11-10": [
+      {
+        "dept": "Générale technique",
+        "type": "",
+        "text": "Centre culturel Caraquet",
+        "resp": "",
+        "color": "",
+        "ts": 1772122164111
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772137113019
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "Remise plan d'éclairage tournée et Escaouette",
+        "resp": "André",
+        "color": "",
+        "ts": 1772138011766
+      }
+    ],
+    "2026-11-11": [
+      {
+        "dept": "Générale",
+        "type": "",
+        "text": "Centre culturel Caraquet",
+        "resp": "",
+        "color": "",
+        "ts": 1772122105573
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772137125480
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137326243
+      }
+    ],
+    "2026-11-12": [
+      {
+        "dept": "Première",
+        "type": "",
+        "text": "Centre culturel Caraquet",
+        "resp": "",
+        "color": "",
+        "ts": 1772122151280
+      },
+      {
+        "dept": "Son",
+        "type": "",
+        "text": "-",
+        "resp": "Jonathan",
+        "color": "",
+        "ts": 1772137140109
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "-",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137335514
+      },
+      {
+        "dept": "Technique",
+        "type": "",
+        "text": "Démontage",
+        "resp": "",
+        "color": "",
+        "ts": 1772138644405
+      }
+    ],
+    "2026-08-28": [
+      {
+        "dept": "Scénographie",
+        "type": "Remise",
+        "text": "Plan de décor final",
+        "resp": "Denise",
+        "color": "",
+        "ts": 1772123477298
+      }
+    ],
+    "2026-09-01": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124176340
+      }
+    ],
+    "2026-09-02": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124218827
+      }
+    ],
+    "2026-08-31": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124267766
+      }
+    ],
+    "2026-09-03": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124290924
+      }
+    ],
+    "2026-09-04": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124301624
+      }
+    ],
+    "2026-09-07": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124343825
+      }
+    ],
+    "2026-09-08": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124353397
+      }
+    ],
+    "2026-09-09": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124363461
+      }
+    ],
+    "2026-09-10": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124372186
+      }
+    ],
+    "2026-09-11": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124382072
+      }
+    ],
+    "2026-09-14": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124399077
+      }
+    ],
+    "2026-09-15": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124408265
+      }
+    ],
+    "2026-09-16": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124416569
+      }
+    ],
+    "2026-09-17": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124424547
+      },
+      {
+        "dept": "Technique",
+        "type": "Salle",
+        "text": "Festival de poésie",
+        "resp": "",
+        "color": "",
+        "ts": 1772124489084
+      }
+    ],
+    "2026-09-18": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124433615
+      },
+      {
+        "dept": "Technique",
+        "type": "Salle",
+        "text": "Festival de poésie",
+        "resp": "",
+        "color": "",
+        "ts": 1772124528232
+      }
+    ],
+    "2026-09-19": [
+      {
+        "dept": "Technique",
+        "type": "Salle",
+        "text": "Festival de poésie",
+        "resp": "",
+        "color": "",
+        "ts": 1772124570189
+      }
+    ],
+    "2026-09-20": [
+      {
+        "dept": "Technique",
+        "type": "Salle",
+        "text": "Festival de poésie",
+        "resp": "",
+        "color": "",
+        "ts": 1772124589946
+      }
+    ],
+    "2026-09-21": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124618376
+      }
+    ],
+    "2026-09-22": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124631847
+      }
+    ],
+    "2026-09-23": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124647091
+      }
+    ],
+    "2026-09-24": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124655477
+      }
+    ],
+    "2026-09-25": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124663809
+      }
+    ],
+    "2026-09-28": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124748064
+      }
+    ],
+    "2026-09-29": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124756586
+      }
+    ],
+    "2026-09-30": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124764902
+      }
+    ],
+    "2026-10-01": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124772593
+      }
+    ],
+    "2026-10-02": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124781293
+      }
+    ],
+    "2026-10-05": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124836858
+      },
+      {
+        "dept": "Scénographie",
+        "type": "",
+        "text": "Peinture scénique",
+        "resp": "",
+        "color": "",
+        "ts": 1772130841326
+      }
+    ],
+    "2026-10-06": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124845434
+      },
+      {
+        "dept": "Scénographie",
+        "type": "",
+        "text": "Peinture scénique",
+        "resp": "",
+        "color": "",
+        "ts": 1772130855983
+      }
+    ],
+    "2026-10-07": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124853644
+      },
+      {
+        "dept": "Scénographie",
+        "type": "",
+        "text": "Peinture scénique",
+        "resp": "",
+        "color": "",
+        "ts": 1772130865813
+      }
+    ],
+    "2026-10-08": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124861293
+      },
+      {
+        "dept": "Scénographie",
+        "type": "",
+        "text": "Peinture scénique",
+        "resp": "",
+        "color": "",
+        "ts": 1772130874431
+      }
+    ],
+    "2026-10-09": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124869120
+      },
+      {
+        "dept": "Scénographie",
+        "type": "",
+        "text": "Peinture scénique",
+        "resp": "",
+        "color": "",
+        "ts": 1772130882911
+      }
+    ],
+    "2026-10-12": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124882810
+      },
+      {
+        "dept": "Scénographie",
+        "type": "",
+        "text": "Peinture scénique",
+        "resp": "",
+        "color": "",
+        "ts": 1772130896409
+      },
+      {
+        "dept": "Éclairage",
+        "type": "",
+        "text": "Plan d'accrochage de travail préliminaire",
+        "resp": "André",
+        "color": "",
+        "ts": 1772137528262
+      }
+    ],
+    "2026-10-13": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124893581
+      },
+      {
+        "dept": "Scénographie",
+        "type": "",
+        "text": "Peinture scénique",
+        "resp": "",
+        "color": "",
+        "ts": 1772130905355
+      }
+    ],
+    "2026-10-14": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124901519
+      },
+      {
+        "dept": "Scénographie",
+        "type": "",
+        "text": "Peinture scénique",
+        "resp": "",
+        "color": "",
+        "ts": 1772130912744
+      }
+    ],
+    "2026-10-15": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124909605
+      },
+      {
+        "dept": "Scénographie",
+        "type": "",
+        "text": "Peinture scénique",
+        "resp": "",
+        "color": "",
+        "ts": 1772130920297
+      }
+    ],
+    "2026-10-16": [
+      {
+        "dept": "Décor",
+        "type": "Production",
+        "text": "Construction décor/accessoires",
+        "resp": "",
+        "color": "",
+        "ts": 1772124917567
+      },
+      {
+        "dept": "Scénographie",
+        "type": "",
+        "text": "Peinture scénique",
+        "resp": "",
+        "color": "",
+        "ts": 1772130927279
+      }
+    ],
+    "2026-08-03": [
+      {
+        "dept": "Réunion de prod",
+        "type": "",
+        "text": "Réunion de production / décor",
+        "resp": "",
+        "color": "",
+        "ts": 1772132605281
+      }
+    ]
+  },
+  "bottin": [
+    {
+      "name": "Allain Roy",
+      "role": "Dir, Artistique",
+      "email": "artistique@tpacadie.ca",
+      "phone": "5067270920",
+      "ts": 1772118553499
+    },
+    {
+      "name": "Anabelle Hébert",
+      "role": "texte",
+      "email": "a-hebertz@hotmail.com",
+      "phone": "",
+      "ts": 1772119540516
+    },
+    {
+      "name": "André Rioux",
+      "role": "éclairage",
+      "email": "rioux.andre@gmail.com",
+      "phone": "",
+      "ts": 1772135367106
+    },
+    {
+      "name": "Anne Godin",
+      "role": "Administration",
+      "email": "administration@tpacadie.ca",
+      "phone": "5067270920",
+      "ts": 1772053043881
+    },
+    {
+      "name": "Caroline Bélisle",
+      "role": "Dramaturge",
+      "email": "caroline.odette.belisle@gmail.com",
+      "phone": "",
+      "ts": 1772119179474
+    },
+    {
+      "name": "Claire Normand",
+      "role": "Comédienne",
+      "email": "claranormand@gmail.com",
+      "phone": "",
+      "ts": 1772119227167
+    },
+    {
+      "name": "Denise Richard",
+      "role": "Scénographe/Cost/Acc",
+      "email": "redtornado855@gmail.com",
+      "phone": "5064711029",
+      "ts": 1772119478780
+    },
+    {
+      "name": "Ghislain Basque",
+      "role": "Régisseur",
+      "email": "ghislain_basque@hotmail.com",
+      "phone": "5063817393",
+      "ts": 1772118875428
+    },
+    {
+      "name": "Jonathan Sonier",
+      "role": "Conception sonore",
+      "email": "jonathansonier@gmail.com",
+      "phone": "",
+      "ts": 1772119604955
+    },
+    {
+      "name": "Luger Beaulieu",
+      "role": "Metteur en scène",
+      "email": "ludgerbeaulieu@gmail.com",
+      "phone": "",
+      "ts": 1772118953625
+    },
+    {
+      "name": "Marc  Bédard",
+      "role": "Dir, Production",
+      "email": "production@tpacadie.ca",
+      "phone": "5067270924",
+      "ts": 1772051165357
+    },
+    {
+      "name": "Mario Mercier",
+      "role": "Communication",
+      "email": "communications@tpacadie.ca",
+      "phone": "5067270920",
+      "ts": 1772118723771
+    },
+    {
+      "name": "Raphael Butler",
+      "role": "Comédien",
+      "email": "raphael.butler@hotmail.com",
+      "phone": "",
+      "ts": 1772119262728
+    },
+    {
+      "name": "Shanice Grace Ndjupkwo",
+      "role": "Adj, Administration",
+      "email": "adj-admin@tpacadie.ca",
+      "phone": "5067270920",
+      "ts": 1772118652493
+    },
+    {
+      "name": "Stacy Arsenault",
+      "role": "Diffusion",
+      "email": "diffusion@tpacadie.ca",
+      "phone": "5067270920",
+      "ts": 1772118769219
+    },
+    {
+      "name": "Tanya Brideau",
+      "role": "Comédienne",
+      "email": "tanyabrideau@gmail.com",
+      "phone": "",
+      "ts": 1772119312056
+    }
+  ]
+}
